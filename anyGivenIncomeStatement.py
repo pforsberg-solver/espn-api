@@ -10,7 +10,7 @@ league = League(league_id=18900909
 
 
 # Target the current week or choose a specific week (e.g., week = 1)
-target_week = 1 #league.current_week
+target_week = 5 #league.current_week
 
 # Comedic personality templates
 # Tiered Roasts based on severity
